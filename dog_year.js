@@ -1,5 +1,5 @@
 //1
-let myAge = 30;  
+let myAge = 28;  
 /*let là từ khóa khai báo biến, myAge là tên biến được gán bằng 28.*/
 
 //2
